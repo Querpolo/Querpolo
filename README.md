@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Querpolo
-- 👀 I’m interested in Web-Development
-- 🌱 I’m currently learning Full-Stack Development 
+- 👀 I’m interested in everything
+- 🌱 I’m currently a Full-Stack Developer
 - 💞️ I’m looking to collaborate on any open project
 - 📫 How to reach me? E-mail: carprobert86@gmail.com
 - Thanks for reading this!
